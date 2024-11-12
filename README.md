@@ -1,2 +1,5 @@
-# DSA
-This repo is dedicated to my study notes taken while I am studying data structure and algorithm. In the comment of each codes I will try to explain everything I am doing. Cheers!
+# Welcome to My DSA Study Notes in C!
+
+This repository is where I document my journey through data structures and algorithms, with detailed explanations in the comments of each code example. I aim to break down each step, making complex topics more approachable and clear.
+
+Grab a cup of coffee, dive in, and let's tackle some algorithms together! Cheers! 🍻
